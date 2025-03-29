@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\presentation\\bankingsystemapi\\controllers\\stripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|solutionrelative:presentation\\bankingsystemapi\\controllers\\stripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\fluentvalidation\\accoutvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\fluentvalidation\\accoutvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\presentation\\bankingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|solutionrelative:presentation\\bankingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StripeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Controllers\\StripeController.cs",
+              "RelativeDocumentMoniker": "presentation\\BankingSystemAPI\\Controllers\\StripeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Controllers\\StripeController.cs*",
+              "RelativeToolTip": "presentation\\BankingSystemAPI\\Controllers\\StripeController.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:29:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccoutValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\FluentValidation\\AccoutValidator.cs",
+              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\FluentValidation\\AccoutValidator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\FluentValidation\\AccoutValidator.cs",
+              "RelativeToolTip": "Core\\BankingSystem.Application\\FluentValidation\\AccoutValidator.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:25:28.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "presentation\\BankingSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Program.cs",
+              "RelativeToolTip": "presentation\\BankingSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:00:48.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

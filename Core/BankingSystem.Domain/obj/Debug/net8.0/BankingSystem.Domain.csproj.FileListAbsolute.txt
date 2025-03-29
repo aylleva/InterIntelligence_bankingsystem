@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\bin\Debug\net8.0\BankingSystem.Domain.deps.json
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\bin\Debug\net8.0\BankingSystem.Domain.dll
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\bin\Debug\net8.0\BankingSystem.Domain.pdb
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.sourcelink.json
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.dll
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\refint\BankingSystem.Domain.dll
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.pdb
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\ref\BankingSystem.Domain.dll
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\bin\Debug\net8.0\BankingSystem.Domain.runtimeconfig.json
+C:\Users\user\Desktop\API Tasks\Banking System\Core\BankingSystem.Domain\obj\Debug\net8.0\BankingSystem.Domain.genruntimeconfig.cache
