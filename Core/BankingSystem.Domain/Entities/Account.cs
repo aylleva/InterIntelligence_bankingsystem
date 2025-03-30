@@ -8,7 +8,7 @@ namespace BankingSystem.Domain.Entities
         public string Name {  get; set; }
         public string Surname {  get; set; }
         public string? Image { get; set; }
-        public string? CartNumber {  get; set; }
-
+        public ICollection<Carts> Carts { get; set; }
+        
     }
 }

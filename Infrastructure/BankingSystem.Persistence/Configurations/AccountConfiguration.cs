@@ -10,7 +10,6 @@ namespace BankingSystem.Persistence.Configurations
         {
             builder.Property(a => a.Name).IsRequired().HasColumnType("varchar(20)");
             builder.Property(a => a.Surname).IsRequired().HasColumnType("varchar(40)");
-            builder.Property(a => a.CartNumber).IsRequired().HasColumnType("varchar(19)");
         }
     }
 }

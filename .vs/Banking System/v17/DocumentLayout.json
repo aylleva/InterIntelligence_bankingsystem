@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\presentation\\bankingsystemapi\\controllers\\stripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|solutionrelative:presentation\\bankingsystemapi\\controllers\\stripecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\fluentvalidation\\cartcreatingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\fluentvalidation\\cartcreatingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\presentation\\bankingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|solutionrelative:presentation\\bankingsystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\interfaces\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\interfaces\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\fluentvalidation\\accoutvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\fluentvalidation\\accoutvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{281B1999-10FF-45E4-AACD-2C3DDC2B18EA}|Infrastructure\\BankingSystem.Persistence\\BankingSystem.Persistence.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\infrastructure\\bankingsystem.persistence\\implementations\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281B1999-10FF-45E4-AACD-2C3DDC2B18EA}|Infrastructure\\BankingSystem.Persistence\\BankingSystem.Persistence.csproj|solutionrelative:infrastructure\\bankingsystem.persistence\\implementations\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{281B1999-10FF-45E4-AACD-2C3DDC2B18EA}|Infrastructure\\BankingSystem.Persistence\\BankingSystem.Persistence.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\infrastructure\\bankingsystem.persistence\\implementations\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{281B1999-10FF-45E4-AACD-2C3DDC2B18EA}|Infrastructure\\BankingSystem.Persistence\\BankingSystem.Persistence.csproj|solutionrelative:infrastructure\\bankingsystem.persistence\\implementations\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\interfaces\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\interfaces\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\mappingprofile\\transactionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\mappingprofile\\transactionmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\dtos\\transaction\\getcartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\dtos\\transaction\\getcartsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\presentation\\bankingsystemapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE6B415-57F0-418A-A0AB-2A31A6C05A84}|presentation\\BankingSystemAPI\\BankingSystemAPI.csproj|solutionrelative:presentation\\bankingsystemapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\dtos\\transaction\\changebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\dtos\\transaction\\changebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|c:\\users\\user\\desktop\\api tasks\\banking system\\core\\bankingsystem.application\\fluentvalidation\\transactbalancevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0A7455-67B0-4DE1-A1F7-11F58299FA62}|Core\\BankingSystem.Application\\BankingSystem.Application.csproj|solutionrelative:core\\bankingsystem.application\\fluentvalidation\\transactbalancevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +58,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StripeController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Controllers\\StripeController.cs",
-              "RelativeDocumentMoniker": "presentation\\BankingSystemAPI\\Controllers\\StripeController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Controllers\\StripeController.cs",
-              "RelativeToolTip": "presentation\\BankingSystemAPI\\Controllers\\StripeController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA2wB0AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TransactionMapping.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\MappingProfile\\TransactionMapping.cs",
+              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\MappingProfile\\TransactionMapping.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\MappingProfile\\TransactionMapping.cs",
+              "RelativeToolTip": "Core\\BankingSystem.Application\\MappingProfile\\TransactionMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:29:38.259Z",
+              "WhenOpened": "2025-03-30T13:28:05.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetCartsDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\DTOs\\Transaction\\GetCartsDto.cs",
+              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\DTOs\\Transaction\\GetCartsDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\DTOs\\Transaction\\GetCartsDto.cs",
+              "RelativeToolTip": "Core\\BankingSystem.Application\\DTOs\\Transaction\\GetCartsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:22:13.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "presentation\\BankingSystemAPI\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "presentation\\BankingSystemAPI\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:11:14.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccoutValidator.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\FluentValidation\\AccoutValidator.cs",
-              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\FluentValidation\\AccoutValidator.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\FluentValidation\\AccoutValidator.cs",
-              "RelativeToolTip": "Core\\BankingSystem.Application\\FluentValidation\\AccoutValidator.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwDsAAAAeAAAAAAAAAA==",
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Infrastructure\\BankingSystem.Persistence\\Implementations\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\BankingSystem.Persistence\\Implementations\\Repository\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Infrastructure\\BankingSystem.Persistence\\Implementations\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\BankingSystem.Persistence\\Implementations\\Repository\\TransactionRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T16:25:28.002Z",
+              "WhenOpened": "2025-03-30T13:07:02.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Program.cs",
-              "RelativeDocumentMoniker": "presentation\\BankingSystemAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\presentation\\BankingSystemAPI\\Program.cs",
-              "RelativeToolTip": "presentation\\BankingSystemAPI\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwFQAAAAaAAAAAAAAAA==",
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\Interfaces\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\Interfaces\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\Interfaces\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "Core\\BankingSystem.Application\\Interfaces\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T13:00:48.697Z",
+              "WhenOpened": "2025-03-30T13:06:21.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\Interfaces\\Services\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\Interfaces\\Services\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\Interfaces\\Services\\ITransactionService.cs",
+              "RelativeToolTip": "Core\\BankingSystem.Application\\Interfaces\\Services\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:03:52.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangeBalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\DTOs\\Transaction\\ChangeBalanceDto.cs",
+              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\DTOs\\Transaction\\ChangeBalanceDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\DTOs\\Transaction\\ChangeBalanceDto.cs",
+              "RelativeToolTip": "Core\\BankingSystem.Application\\DTOs\\Transaction\\ChangeBalanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:02:27.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Infrastructure\\BankingSystem.Persistence\\Implementations\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\BankingSystem.Persistence\\Implementations\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Infrastructure\\BankingSystem.Persistence\\Implementations\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Infrastructure\\BankingSystem.Persistence\\Implementations\\Services\\TransactionService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:51:29.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactBalanceValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\FluentValidation\\TransactBalanceValidator.cs",
+              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\FluentValidation\\TransactBalanceValidator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\FluentValidation\\TransactBalanceValidator.cs",
+              "RelativeToolTip": "Core\\BankingSystem.Application\\FluentValidation\\TransactBalanceValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:43:32.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartCreatingValidator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\FluentValidation\\CartCreatingValidator.cs",
+              "RelativeDocumentMoniker": "Core\\BankingSystem.Application\\FluentValidation\\CartCreatingValidator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API Tasks\\Banking System\\Core\\BankingSystem.Application\\FluentValidation\\CartCreatingValidator.cs",
+              "RelativeToolTip": "Core\\BankingSystem.Application\\FluentValidation\\CartCreatingValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:43:20.982Z",
               "EditorCaption": ""
             }
           ]

@@ -51,14 +51,7 @@ namespace BankingSystem.Application.FluentValidation
                .Must(CheckPassword)
                     .WithMessage("Wrong Type!");
 
-            RuleFor(x => x.CartNumber).NotEmpty()
-             .WithMessage("Cart Number Required")
-           .MinimumLength(19)
-                 .WithMessage("Cart Number must exist min 19 symbols")
-            .MaximumLength(19)
-                 .WithMessage("Cart Number must exist max 19 symbols")
-             .Matches(@"[0-9]*")
-                     .WithMessage("Wrong Type");
+         
         }
         private bool CheckPassword(string password)
         {

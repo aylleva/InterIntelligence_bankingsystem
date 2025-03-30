@@ -86,11 +86,6 @@
         "IsRequired": false
       },
       {
-        "Name": "CartNumber",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
         "Name": "Image",
         "Type": "System.String",
         "IsRequired": false
@@ -141,6 +136,70 @@
         "Name": "priceId",
         "Type": "System.String",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingSystemAPI.Controllers.TransactionController",
+    "Method": "AddCart",
+    "RelativePath": "api/Transaction/AddCart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cartDto",
+        "Type": "BankingSystem.Application.DTOs.Transaction.CreateCartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingSystemAPI.Controllers.TransactionController",
+    "Method": "GetCarts",
+    "RelativePath": "api/Transaction/GetCarts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingSystemAPI.Controllers.TransactionController",
+    "Method": "IncreaseBalance",
+    "RelativePath": "api/Transaction/IncreaseBalance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "balanceDto",
+        "Type": "BankingSystem.Application.DTOs.Transaction.ChangeBalanceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingSystemAPI.Controllers.TransactionController",
+    "Method": "TransactMoney",
+    "RelativePath": "api/Transaction/TransactMoney",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "moneyDto",
+        "Type": "BankingSystem.Application.DTOs.Transaction.TransactMoneyDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

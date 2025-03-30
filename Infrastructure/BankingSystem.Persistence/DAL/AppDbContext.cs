@@ -10,7 +10,7 @@ namespace BankingSystem.Persistence.DAL
     {
         public AppDbContext(DbContextOptions<AppDbContext> options):base(options) { }
 
-
+        public DbSet<Carts> Carts { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());

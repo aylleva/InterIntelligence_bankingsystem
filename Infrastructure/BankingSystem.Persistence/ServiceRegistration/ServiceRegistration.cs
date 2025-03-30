@@ -1,7 +1,9 @@
 ﻿
+using BankingSystem.Application.Interfaces.Repositories;
 using BankingSystem.Application.Interfaces.Services;
 using BankingSystem.Domain.Entities;
 using BankingSystem.Persistence.DAL;
+using BankingSystem.Persistence.Implementations.Repository;
 using BankingSystem.Persistence.Implementations.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -30,6 +32,9 @@ namespace BankingSystem.Persistence.ServiceRegistration
             opt.UseSqlServer(configuration.GetConnectionString("Default")));
 
             services.AddScoped<IAuthenticationService, AuthenticationServices>();
+
+            services.AddScoped<ITransactionRepository, TransactionRepository>();
+            services.AddScoped<ITransactionService, TransactionService>();
 
             return services;
         }
